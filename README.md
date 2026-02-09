@@ -1,5 +1,13 @@
-# badge-test
+# CI Workflow Sandbox
 
-This is a test repository to earn GitHub badges!
+Experimental repository for testing GitHub Actions workflows and CI/CD pipeline configurations.
 
-Making a change for pull request!
+## Purpose
+
+Testing various workflow triggers, job dependencies, and automation patterns before implementing in production repositories.
+
+## Current Tests
+
+- Branch protection rules
+- Automated PR workflows
+- Merge strategies
